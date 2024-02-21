@@ -1,0 +1,4 @@
+# .gitignore
+rl/cleanrl_utils/
+ppo_critic_*
+ppo_actor_*
